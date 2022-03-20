@@ -1,0 +1,18 @@
+
+Installation required :
+
+Node
+React 
+java
+Mysql
+
+
+Steps to start react:
+cd to react-client/shipcal;
+run below command to start react
+npm start 
+hit http://localhost:3000/
+
+Steps to run java code:
+cd to backend and run below command
+./mvnw spring-boot:run
